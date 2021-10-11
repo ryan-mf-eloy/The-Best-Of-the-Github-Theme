@@ -11,9 +11,10 @@
     "name": "Ryan Eloy"
   },
   "repository": {
-    "directory": "",
-    "url": ""
+    "directory": "https://github.com/ryan-mf-eloy/The-Better-From-GitHub-Theme/tree/master",
+    "url": "https://github.com/ryan-mf-eloy/The-Better-From-GitHub-Theme"
   },
+  "license": "https://github.com/ryan-mf-eloy/The-Better-From-GitHub-Theme/blob/master/LICENSE",
   "icon": "./assets/icon.png",
   "categories": [
     "Themes",
