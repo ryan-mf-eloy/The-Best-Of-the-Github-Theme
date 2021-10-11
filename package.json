@@ -1,0 +1,31 @@
+{
+  "name": "the-better-from-github-theme",
+  "displayName": "The Better From GitHub Theme",
+  "description": "A modified theme only with the best of Github Theme.",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.61.0"
+  },
+  "author": {
+    "email": "math.eloy@hotmail.com",
+    "name": "Ryan Eloy"
+  },
+  "repository": {
+    "directory": "",
+    "url": ""
+  },
+  "icon": "./assets/icon.png",
+  "categories": [
+    "Themes",
+    "Visualization"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "The Better From GitHub Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/the-better-from-github-theme.json"
+      }
+    ]
+  }
+}
