@@ -1,4 +1,4 @@
-# The Better From GitHub Theme
+# The Best Of the Github Theme
 
 <div style="display: flex;padding:1rem 0;align-items: center;gap: 0.5rem;">
   <img src="./assets/icon.png" width="100px" style="border-radius: 50%;border: 0.2rem solid;" />
